@@ -1,2 +1,3 @@
 # Versie1
-Created with CodeSandbox
+Basisversie van het boek Road To React van Robin Wieruch.
+Created with CodeSandbox.
